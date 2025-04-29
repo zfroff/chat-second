@@ -1,0 +1,6 @@
+{
+   "watch": ["server.ts", "routes", "sockets"],
+   "ext": "ts",
+   "exec": "ts-node server.ts"
+ }
+ 
